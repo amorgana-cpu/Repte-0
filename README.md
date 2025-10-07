@@ -1,2 +1,2 @@
 # Repte-0
-# Hola, este es mi primer Repte-0
+# Mi primer repo a GitHub
