@@ -1,1 +1,1 @@
-console.log("M'agrada aprendre Javascript".slice(18, 28));
+console.log("M'agrada aprendre Javascript".slice(40, 50));
