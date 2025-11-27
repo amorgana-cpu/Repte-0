@@ -4,5 +4,5 @@ let fruitesEstiu = ["meló", "albercoc"];
 // Aquí mostra només els dos valors inicials
 console.log(fruitesEstiu);
 // Afegim "nectarina" a la nostra llista
-fruitesEstiu.push("nectarina");
+fruitesEstiu.push("camiseta");
 console.log(fruitesEstiu);
